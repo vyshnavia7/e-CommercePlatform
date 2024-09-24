@@ -1,6 +1,6 @@
 # e-CommercePlatform
 
-This project is a simple e-commerce platform where users can view products, add them to a cart, adjust quantities, and search for products. The product data is fetched from the Fake Store API.
+This project is a simple and a User-Friendly e-commerce platform where users can view products, add them to a cart, adjust quantities, and search for products. The product data is fetched from the Fake Store API.
 
 # WebPage Walkthrough
 Once the webpage is running, here is how you can use it:
